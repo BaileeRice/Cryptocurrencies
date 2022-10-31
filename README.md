@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-![image](https://user-images.githubusercontent.com/105184244/198962622-3792f696-b592-4bbd-a4f6-6bfc40ff29f4.png)
+![image](https://user-images.githubusercontent.com/105184244/198962707-0ef5bfee-50d5-44e4-aa44-11b558aef19d.png)
 
 ## OVERVIEW
 
