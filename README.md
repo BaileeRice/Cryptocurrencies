@@ -58,8 +58,6 @@ Part 4: Visualizing Cryptocurrencies Results
 
 ![image](https://user-images.githubusercontent.com/105184244/198970216-53a5b203-ba04-49af-bcc7-456878b466f7.png)
 
-![image](https://user-images.githubusercontent.com/105184244/198970312-377fba7d-96af-448d-8238-4c081eb69d0a.png)
-
 ![image](https://user-images.githubusercontent.com/105184244/198970512-e2c52272-754c-423a-8db4-b351f5a17cc8.png)
 
-
+![image](https://user-images.githubusercontent.com/105184244/198970312-377fba7d-96af-448d-8238-4c081eb69d0a.png)
